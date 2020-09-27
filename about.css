@@ -46,9 +46,9 @@ body {
  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpTdXWotB7GdWLMS0pU5hQRHds079hSRvQFQ&usqp=CAU");
 }
 img{
-  border-radius: 50%;
-  width: 125px;
-  height: 135px;
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
   box-shadow: 0 0 10px black;
   margin-left: 500px;
   }
