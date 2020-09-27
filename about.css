@@ -46,7 +46,7 @@ body {
  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpTdXWotB7GdWLMS0pU5hQRHds079hSRvQFQ&usqp=CAU");
 }
 img{
-  border-radius: 10%;
+  border-radius: 50%;
   width: 125px;
   height: 135px;
   box-shadow: 0 0 10px black;
