@@ -116,3 +116,14 @@ iframe{
   opacity: 0.7;
  color: #fc5c65;
 }
+@media all (min-width: 600px) {
+  iframe{
+    text align: center;
+  }
+  p{ 
+    text-align: center;
+  }
+  footer{
+    text-align: center;
+  }
+}
